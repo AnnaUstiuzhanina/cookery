@@ -1,0 +1,1 @@
+[{"model": "cookery.recipe", "pk": 1, "fields": {"name": "Рецепт #1", "description": "Описание рецепта 1"}}, {"model": "cookery.recipe", "pk": 2, "fields": {"name": "Рецепт #2", "description": "Описание рецепта 2"}}, {"model": "cookery.recipe", "pk": 3, "fields": {"name": "Рецепт #3", "description": "Описание рецепта 3"}}]
